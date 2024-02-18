@@ -1,0 +1,5 @@
+http GET localhost:3333/users
+
+http POST localhost:3333/users name="jorge willian" email="jorge@gmail.com"
+
+http DELETE localhost:3333/users
